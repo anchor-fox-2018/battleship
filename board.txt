@@ -1,4 +1,4 @@
-A sample board for visualization/testing purposes:
+ A sample board for visualization/testing purposes:
 
      A   B   C   D   E   F   G   H   I   J
    +---------------------------------------+
@@ -8,7 +8,7 @@ A sample board for visualization/testing purposes:
    |---|---|---|---|---|---|---|---|---|---|
  3 |   |   |   |   |   |   |   |   |   |   |
    |---|---|---|---|---|---|---|---|---|---|
- 4 |   |   |   |   |   |   |   |   |   |   |
+ 4 |   | X |   |   |   |   |   | X |   |   |
    |---|---|---|---|---|---|---|---|---|---|
  5 |   |   |   |   |   |   |   |   |   |   |
    |---|---|---|---|---|---|---|---|---|---|
