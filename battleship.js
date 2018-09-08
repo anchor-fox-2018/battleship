@@ -1,6 +1,6 @@
 // Your code here
-const kolom = 10;
-const baris = 10;
+const kolom = process.argv[2];;
+const baris = process.argv[3];;
 function boardBuild(kolom,baris){
     const abc = ' ABCDEFGHIJKLMNOPQRSTUVWXYZ';
     //let hasil = []
