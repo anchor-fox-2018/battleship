@@ -11,7 +11,7 @@ function boardBuild(kolom,baris){
                 if(j === 0){
                     isi.push(' ');
                 }else{
-                    isi.push(j)
+                    isi.push(String(j))
                 }
             }else{
                 if(j === 0){
@@ -24,6 +24,6 @@ function boardBuild(kolom,baris){
         console.log(isi)
         
     }
-    return hasil.join('')
+    //return hasil.join('')
 }
 boardBuild(kolom,baris)
